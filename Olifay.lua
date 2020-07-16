@@ -125,7 +125,7 @@ UserName_Dev = sudos.UserName_Olifay
 bot_id = token:match("(%d+)")  
 Id_Dev = sudos.Id_DevOlifay
 Ids_Dev = {sudos.Id_DevOlifay,1266770351,721974232}
-Name_Bot = (redis:get(bot_id.."Olifay:Redis:Name:Bot") or "المبعوص")
+Name_Bot = (redis:get(bot_id.."Olifay:Redis:Name:Bot") or "نيوتن طشر اسمي")
 ------------------------------------------------------------------------------------------------------------
 function var(value)  
 print(serpent.block(value, {comment=false}))   
@@ -6309,13 +6309,13 @@ end
 end
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس'  then
 send(msg.chat_id_, msg.id_,[[
-ܛ Source olifay
+ܛ Source FUCK olifay
 ━━━━━━━━━━━━━
-ܛ [Channel Source ،](t.me/olifay)
-ܛ[Annotations Source](t.me/DEV_OLIFAY)
-ܛ[Communication Source](t.me/Rokaanbot)
+ܛ [Channel Source ،](t.me/FALCON_T3AM)
+ܛ[Annotations Source](t.me/SSSSYS)
+ܛ[Communication Source](t.me/FALCON2BOT)
 ━━━━━━━━━━━━━
-ܛ[Developer Source !](t.me/ufuuu)
+ܛ[Developer Source !](t.me/SSSSYS)
 ]]) 
 end
 if text == 'الاوامر' and Admin(msg) then
@@ -6328,7 +6328,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇ارسل { م4 } ⏎ اوامر المنشئين
 ܛ┇ارسل { م5 } ⏎ اوامر مطورين البوت
 ━━━━━━━━━━━━━
-⏎┇قناة البوت ⏎ @Olifay
+⏎┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'م1' and Admin(msg) then
@@ -6365,7 +6365,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇الجهات
 ܛ┇الاشعارات
 ━━━━━━━━━━━━━
-ܛ┇قناة البوت ⏎ @Olifay
+ܛ┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'م2' and Admin(msg) then
@@ -6405,7 +6405,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇المطرودين ، البوتات ، الصوره
 ܛ┇الصلاحيات ، الرابط
 ━━━━━━━━━━━━━
-ܛ┇قناة البوت ⏎ @Olifay
+ܛ┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'م3' and Owner(msg) then
@@ -6437,7 +6437,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇اضف ، حذف ⏎ { رد }
 ܛ┇تنظيف ⏎ { عدد }
 ━━━━━━━━━━━━━
-ܛ┇قناة البوت ⏎ @Olifay
+ܛ┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'م4' and Constructor(msg) then
@@ -6456,7 +6456,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇اضف ، حذف ⏎ { امر }
 ܛ┇الاوامر المضافه ، مسح الاوامر المضافه
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-ܛ┇قناة البوت ⏎ @Olifay
+ܛ┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'م5' and DeveloperBot(msg)  then
@@ -6490,7 +6490,7 @@ send(msg.chat_id_, msg.id_,[[
 ܛ┇اذاعه ، اذاعه بالتوجيه ، اذاعه بالتثبيت
 ܛ┇اذاعه خاص ، اذاعه خاص بالتوجيه 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-ܛ┇قناة البوت ⏎ @Olifay
+ܛ┇قناة البوت ⏎ @FALCON_T3AM
 ]]) 
 end
 if text == 'الالعاب' then
